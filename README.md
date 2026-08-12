@@ -1,6 +1,5 @@
 # Data-portfolio
 Liiketoiminnan ja data-analytiikan portfolio
-Osaaminen
 
 Power BI
 Excel
