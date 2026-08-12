@@ -32,7 +32,9 @@ Tavoitteena oli analysoida verkkokaupan myyntiä ja rakentaa selkeä liiketoimin
 - Excel
 - DAX
 - Data-analytiikka
+## Power BI -dashboard
 
+![Verkkokaupan myyntianalyysi](dashboard.png)
 ## Keskeisiä havaintoja
 
 - Elektroniikka on suurin tuoteryhmä myynnillä mitattuna.
