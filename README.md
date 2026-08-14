@@ -1,47 +1,15 @@
 # Data-portfolio
-Liiketoiminnan ja data-analytiikan portfolio
 
-Power BI
-Excel
-SQL
-Power Query
-Liiketoiminta-analytiikka
-Tekoälyn hyödyntäminen
+Liiketoiminnan ja data-analytiikan portfolio.
 
-# Verkkokaupan myyntianalyysi 2025–2026
+## Osaaminen
 
-Power BI:llä toteutettu data-analytiikan portfolioharjoitus kuvitteellisen verkkokaupan myyntidatasta.
+Power BI • Excel • SQL • Power Query • Liiketoiminta-analytiikka • Tekoälyn hyödyntäminen
 
-## Projektin tavoite
+## Projektit
 
-Tavoitteena oli analysoida verkkokaupan myyntiä ja rakentaa selkeä liiketoimintaa tukeva Power BI -dashboard.
+### Verkkokaupan myyntianalyysi 2025–2026
 
-## Analyysissä tarkastellaan
+Power BI -dashboard kuvitteellisen verkkokaupan myynnin, katteen, tuotteiden ja tuoteryhmien analysointiin.
 
-- kokonaismyyntiä
-- tilausten määrää
-- kokonaiskatetta
-- myynnin kehitystä kuukausittain
-- myyntiä tuotteittain
-- myyntiä tuoteryhmittäin
-
-## Työkalut
-
-- Power BI
-- Power Query
-- Excel
-- DAX
-- Data-analytiikka
-## Power BI -dashboard
-
-![Verkkokaupan myyntianalyysi](dashboard.png)
-## Keskeisiä havaintoja
-
-- Elektroniikka on suurin tuoteryhmä myynnillä mitattuna.
-- Langattomat kuulokkeet kuuluvat parhaiten myyviin tuotteisiin.
-- Myynnissä esiintyy kuukausittaista vaihtelua.
-- Dashboard mahdollistaa vuosien 2025 ja 2026 vertailun.
-
-## Aineisto
-
-Projektissa käytetty verkkokaupan myyntiaineisto on kuvitteellinen ja luotu portfolioharjoitusta varten.
+➡️ [Katso projekti](verkkokaupan-myyntianalyysi/)
