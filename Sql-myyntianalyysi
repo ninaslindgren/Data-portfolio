@@ -1,0 +1,4 @@
+sql-myyntianalyysi/
+├── README.md
+├── analyysikyselyt.sql
+└── yrityksen_myyntidata.db
