@@ -4,7 +4,7 @@ Liiketoiminnan ja data-analytiikan portfolio.
 
 ## Osaaminen
 
-Power BI • SQL • Excel • Power Query • DAX • SQLite • Liiketoiminta-analytiikka • Tekoälyn hyödyntäminen
+Power BI • SQL • Python • Excel • Power Query • DAX • Pandas • Matplotlib • SQLite • Liiketoiminta-analytiikka • Tekoälyn hyödyntäminen
 
 ## Projektit
 
@@ -21,3 +21,11 @@ SQL-analyysi kuvitteellisen yrityksen myyntitietokannasta.
 SQL-kyselyillä selvitetään myydyimmät tuotteet, parhaat asiakkaat, kuukausittainen myynnin kehitys ja kannattavimmat tuoteryhmät.
 
 ➡️ [Katso SQL-projekti](sql-myyntianalyysi/)
+
+### 🐍 Python-myyntianalyysi
+
+Pythonilla toteutettu verkkokaupan myyntidatan analyysi.
+
+Analyysissä tarkastellaan myyntiä, katetta, tuotteita, tuoteryhmiä, myyntikanavia ja kuukausittaista kehitystä käyttäen Pandasia ja Matplotlibia.
+
+➡️ [Katso Python-projekti](python-myyntianalyysi/)
