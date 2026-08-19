@@ -29,3 +29,8 @@ Pythonilla toteutettu verkkokaupan myyntidatan analyysi.
 Analyysissä tarkastellaan myyntiä, katetta, tuotteita, tuoteryhmiä, myyntikanavia ja kuukausittaista kehitystä käyttäen Pandasia ja Matplotlibia.
 
 ➡️ [Katso Python-projekti](python-myyntianalyysi/)
+
+### 🤖 AI-asiakasviestien automaatio
+Make-alustalla rakennettu AI-automaatio, joka vastaanottaa asiakasviestin, luokittelee sen, määrittää prioriteetin, muodostaa vastausluonnoksen ja yhteenvedon sekä tallentaa tulokset Google Sheetsiin.
+
+➡️ [Tutustu projektiin](AI-automaatio)
