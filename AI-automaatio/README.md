@@ -37,6 +37,16 @@ Automaatio käsittelee viestin ja muodostaa esimerkiksi:
 - **Yhteenveto:** Asiakas ilmoittaa rikkinäisenä saapuneesta tuotteesta.
 - **AI:n vastaus:** Asiakkaalle muodostettu vastausluonnos.
 
+  ## Kuvakaappaukset
+
+### Automaation rakenne
+
+![Make-automaatio](make-automaatio.png)
+
+### Automaation tulokset
+
+![Google Sheets -tulos](googlesheetstulos.png)
+
 ## Mitä projekti osoittaa?
 
 Projekti osoittaa käytännössä, miten tekoälyä voidaan yhdistää liiketoimintaprosessien automatisointiin ja manuaalisen työn vähentämiseen.
