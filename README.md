@@ -1,6 +1,8 @@
 # Data-portfolio
 
-Liiketoiminnan ja data-analytiikan portfolio.
+Olen kauppatieteiden maisteri, ja olen täydentänyt osaamistani data-analytiikassa ja tekoälyn hyödyntämisessä. Tässä portfoliossa esittelen käytännön projekteja Power BI:stä, SQL:stä, Pythonista sekä AI-automaatiosta.
+
+Minua kiinnostavat erityisesti datan, tekoälyn ja automaation hyödyntäminen liiketoiminnan kehittämisessä.
 
 ## Osaaminen
 
