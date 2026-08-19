@@ -45,7 +45,7 @@ Automaatio käsittelee viestin ja muodostaa esimerkiksi:
 
 ### Automaation tulokset
 
-![Google Sheets -tulos](googlesheetstulos.png)
+![Google Sheets -tulos](google-sheets-tulos.png)
 
 ## Mitä projekti osoittaa?
 
