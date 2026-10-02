@@ -2,11 +2,11 @@
 
 Olen kauppatieteiden maisteri, ja olen täydentänyt osaamistani data-analytiikassa ja tekoälyn hyödyntämisessä. Tässä portfoliossa esittelen käytännön projekteja Power BI:stä, SQL:stä, Pythonista sekä AI-automaatiosta.
 
-Minua kiinnostavat erityisesti datan, tekoälyn ja automaation hyödyntäminen liiketoiminnan kehittämisessä.
+Minua kiinnostavat erityisesti datan, tekoälyn ja automaation hyödyntäminen liiketoiminnan ja taloushallinnon kehittämisessä.
 
 ## Osaaminen
 
-Power BI • SQL • Python • Excel • Power Query • DAX • Pandas • Matplotlib • SQLite • Liiketoiminta-analytiikka • Tekoälyn hyödyntäminen
+Netvisor • Laskutus ja reskontrat • Hinnoittelu ja kannattavuus • Power BI • SQL • Excel • Power Query • Liiketoiminta-analytiikka • Tekoälyn hyödyntäminen
 
 ## Projektit
 
