@@ -28,10 +28,9 @@ Tavoitteena oli analysoida verkkokaupan myyntiä ja rakentaa selkeä liiketoimin
 
 ## Keskeisiä havaintoja
 
-- Elektroniikka on suurin tuoteryhmä myynnillä mitattuna.
-- Langattomat kuulokkeet kuuluvat parhaiten myyviin tuotteisiin.
-- Myynnissä esiintyy kuukausittaista vaihtelua.
-- Dashboardilla voidaan tarkastella vuosia 2025 ja 2026 erikseen.
+- Elektroniikka on suurin tuoteryhmä myynnillä mitattuna
+- Langattomat kuulokkeet kuuluvat parhaiten myyviin tuotteisiin
+- Dashboardilla voidaan tarkastella vuosia 2025 ja 2026 erikseen
 
 ## Aineisto
 
